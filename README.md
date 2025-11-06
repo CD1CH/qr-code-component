@@ -31,8 +31,8 @@ The challenge focuses on practicing layout skills (centering, spacing, font styl
 
 ### Links
 
-- Solution URL: [https://github.com/<your-username>/qr-code-component](https://github.com/<your-username>/qr-code-component)
-- Live Site URL: [https://<your-username>.github.io/qr-code-component/](https://<your-username>.github.io/qr-code-component/)
+- Solution URL: [https://github.com/CD1CH/qr-code-component](https://github.com/CD1CH/qr-code-component)
+- Live Site URL: [https://cd1ch.github.io/qr-code-component/](https://cd1ch.github.io/qr-code-component/)
 
 ---
 
